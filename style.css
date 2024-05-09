@@ -1,0 +1,105 @@
+/* body{
+  margin-bottom: 100px;
+  background-color: #c6c6c6;
+} */
+
+body{
+  margin-bottom: 100px;
+  background-color: #dadada;
+}
+
+/* navbar menu */
+.navbar-custom {
+  background-color: #007bff; /* Cor de fundo */
+}
+
+/* container__button */
+.container__button{
+  display: flex;
+  gap: 0.3rem;
+  padding: 0.5rem;
+  align-items: center;
+  justify-content: center;
+}
+
+
+
+/* menu dos plates */
+.menu-item {
+  display: inline-block;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  padding: 10px;
+  margin-bottom: 10px;
+}
+
+.even {
+  background-color: #e7e6e6; /* Cor para linhas pares */
+}
+
+.menu-item p {
+  margin-bottom: 0px;
+}
+
+.menu-item h4 {
+  font-size: 1.5rem;
+  color: #333; /* Cor do nome do prato */
+  margin-bottom: 5px;
+}
+
+.menu-item .description {
+  font-size: 1rem;
+  color: #555; /* Cor da descrição do prato */
+  margin-bottom: 10px;
+}
+
+.menu-item .info {
+  font-size: 1.2rem;
+  color: #777; /* Cor das informações (valor e serve) */
+}
+
+
+
+/* botão do WhatsApp */
+.whatsapp-button {
+  position: fixed;
+  bottom: 47px;
+  right: 10px;
+  background-color: #25d366;
+  color: #fff;
+  border: none;
+  border-radius: 9999%;
+  padding: 3px 10px 2px 10px ;
+  font-size: 30px;
+  cursor: pointer;
+}
+
+.whatsapp-button i {
+  margin: 0;
+}
+
+/* rodape */
+footer {
+  background-color: #333;
+  color: rgba(255, 255, 255, 0.5); /* Cor com opacidade (alpha) de 0.8 */
+  text-align: center;
+  padding: 10px 0px 10px 0px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+}
+
+footer p {
+  margin: 0;
+}
+
+footer a {
+  text-decoration: none;
+  color: rgba(255, 255, 255, 1); /* Cor do texto com opacidade 1 (sem opacidade) */
+}
+
+footer a img {
+  width: 20px; /* Ajuste o tamanho da imagem conforme necessário */
+  margin-bottom: -5px; /* Ajuste para alinhar melhor a imagem e o texto */
+}
+
