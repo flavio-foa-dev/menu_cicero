@@ -6,7 +6,7 @@
       "descricao": "Tomate, Alho, azeitona, manjericao",
       "serve_1": 53.90,
       "serve_2": 96.90,
-      "imgs": ["public/vegano/test1.jpg","public/vegano/test1.jpg","public/vegano/test1.jpg"]
+      "imgs": ["public/vegano/tomateSeco/seco1.jpg", "public/vegano/tomateSeco/seco2.jpg", "public/vegano/tomateSeco/seco3.jpg"]
     },
     {
       "id": 2,
