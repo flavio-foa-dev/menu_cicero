@@ -43,5 +43,14 @@
       "serve_2": 96.90,
       "imgs": []
     }
+  ],
+  "Pães": [
+    {
+      "id": 3,
+      "prato": "Pao de Arroz",
+      "descricao": "Arroz integral, Oleo de girassol, Sal, Fermento, Acucar demerara,",
+      "serve_1": 53.90,
+      "serve_2": 96.90,
+      "imgs": []}
   ]
 }
