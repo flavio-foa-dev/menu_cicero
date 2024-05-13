@@ -10,7 +10,13 @@ body{
 
 /* navbar menu */
 .navbar-custom {
-  background-color: #007bff; /* Cor de fundo */
+  background-color: #a1eaf9; /* Cor de fundo */
+}
+
+.container {
+ display: flex;
+ align-items: center;
+ justify-content: center;
 }
 
 /* container__button */
