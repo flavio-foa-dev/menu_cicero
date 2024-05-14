@@ -25,7 +25,7 @@
       "descricao": "Laranja, Morango",
       "serve_1": 53.90,
       "serve_2": 96.90,
-      "imgs": []
+      "imgs": ["public/ligth/geleia/geleia1.jpg", "public/ligth/geleia/geleia2.jpg", "public/ligth/geleia/geleia3.jpg", "public/ligth/geleia/geleia4.jpg"]
     },
     {
       "id": 2,
@@ -33,15 +33,7 @@
       "descricao": "Maca, Pimenta, Canela, Alho, acucar, Limao",
       "serve_1": 53.90,
       "serve_2": 96.90,
-      "imgs": []
-    },
-    {
-      "id": 3,
-      "prato": "Pao de Arroz",
-      "descricao": "Arroz integral, Oleo de girassol, Sal, Fermento, Acucar demerara,",
-      "serve_1": 53.90,
-      "serve_2": 96.90,
-      "imgs": []
+      "imgs": ["public/ligth/geleiaPimenta/geleiaPimenta1.jpg", "public/ligth/geleiaPimenta/geleiaPimenta2.jpg", "public/ligth/geleiaPimenta/geleiaPimenta3.jpg"]
     }
   ],
   "Pães": [
@@ -51,6 +43,7 @@
       "descricao": "Arroz integral, Oleo de girassol, Sal, Fermento, Acucar demerara,",
       "serve_1": 53.90,
       "serve_2": 96.90,
-      "imgs": []}
+      "imgs": ["public/paes/paoArroz/pao1.jpg", "public/paes/paoArroz/pao2.jpg", "public/paes/paoArroz/pao3.jpg"]
+    }
   ]
 }
